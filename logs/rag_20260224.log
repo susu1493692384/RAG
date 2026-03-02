@@ -1,0 +1,18 @@
+2026-02-24 17:59:53,474 - enterprise_rag.api.main - INFO - 服务初始化完成
+2026-02-24 17:59:53,826 - enterprise_rag.api.main - INFO - 服务启动中...
+2026-02-24 18:00:52,555 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:01:43,227 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:02:18,658 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:04:26,248 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:05:35,030 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:08:37,407 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:09:47,020 - enterprise_rag.api.main - INFO - 服务初始化完成
+2026-02-24 18:09:47,049 - enterprise_rag.api.main - INFO - 服务启动中...
+2026-02-24 18:10:21,946 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:10:41,480 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:14:30,527 - enterprise_rag.api.main - INFO - 服务初始化完成
+2026-02-24 18:14:30,555 - enterprise_rag.api.main - INFO - 服务启动中...
+2026-02-24 18:15:17,180 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:15:24,415 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:17:25,879 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
+2026-02-24 18:17:27,373 - httpx - INFO - HTTP Request: POST https://open.bigmodel.cn/api/paas/v4/chat/completions "HTTP/1.1 200 OK"
